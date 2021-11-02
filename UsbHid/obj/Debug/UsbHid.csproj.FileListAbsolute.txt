@@ -1,0 +1,51 @@
+A:\!!!JANNIK\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\bin\Debug\UsbHid.dll
+A:\!!!JANNIK\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\bin\Debug\UsbHid.pdb
+A:\!!!JANNIK\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+A:\!!!JANNIK\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.Cache
+A:\!!!JANNIK\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\obj\Debug\UsbHid.dll
+A:\!!!JANNIK\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\obj\Debug\UsbHid.pdb
+A:\!!!JANNIK\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\obj\Debug\UsbHid.csprojResolveAssemblyReference.cache
+U:\PublicData\____Projects\Electronic\UsbFanController\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\bin\Debug\UsbHid.dll
+U:\PublicData\____Projects\Electronic\UsbFanController\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\bin\Debug\UsbHid.pdb
+U:\PublicData\____Projects\Electronic\UsbFanController\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\obj\Debug\UsbHid.csprojResolveAssemblyReference.cache
+U:\PublicData\____Projects\Electronic\UsbFanController\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+U:\PublicData\____Projects\Electronic\UsbFanController\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.Cache
+U:\PublicData\____Projects\Electronic\UsbFanController\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\obj\Debug\UsbHid.dll
+U:\PublicData\____Projects\Electronic\UsbFanController\CSharp HID @ microcip pic18\USB2550HidTest\UsbHid\obj\Debug\UsbHid.pdb
+W:\FanController_USB_HID_winSW\UsbHid\bin\Debug\UsbHid.dll
+W:\FanController_USB_HID_winSW\UsbHid\bin\Debug\UsbHid.pdb
+W:\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csprojResolveAssemblyReference.cache
+W:\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+W:\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.Cache
+W:\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.dll
+W:\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.pdb
+\\userver\TempWork\FanController_USB_HID_winSW\UsbHid\bin\Debug\UsbHid.dll
+\\userver\TempWork\FanController_USB_HID_winSW\UsbHid\bin\Debug\UsbHid.pdb
+\\userver\TempWork\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csprojResolveAssemblyReference.cache
+\\userver\TempWork\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+\\userver\TempWork\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.Cache
+\\userver\TempWork\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.dll
+\\userver\TempWork\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.pdb
+C:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\bin\Debug\UsbHid.dll
+C:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\bin\Debug\UsbHid.pdb
+C:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csprojResolveAssemblyReference.cache
+C:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+C:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.Cache
+C:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.dll
+C:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.pdb
+D:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\bin\Debug\UsbHid.dll
+D:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\bin\Debug\UsbHid.pdb
+D:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csprojAssemblyReference.cache
+D:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+D:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.cache
+D:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csproj.CoreCompileInputs.cache
+D:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.dll
+D:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.pdb
+B:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\bin\Debug\UsbHid.dll
+B:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\bin\Debug\UsbHid.pdb
+B:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csprojAssemblyReference.cache
+B:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+B:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.cache
+B:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.csproj.CoreCompileInputs.cache
+B:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.dll
+B:\_Projects\_Software\FanController_USB_HID_winSW\UsbHid\obj\Debug\UsbHid.pdb

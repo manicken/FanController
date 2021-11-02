@@ -1,0 +1,12 @@
+W:\FanController_USB_HID_winSW\USB2550HidTest\bin\Release\USB2550HidTest.exe
+W:\FanController_USB_HID_winSW\USB2550HidTest\bin\Release\USB2550HidTest.pdb
+W:\FanController_USB_HID_winSW\USB2550HidTest\bin\Release\UsbHid.dll
+W:\FanController_USB_HID_winSW\USB2550HidTest\bin\Release\UsbHid.pdb
+W:\FanController_USB_HID_winSW\USB2550HidTest\obj\x86\Release\FanController_USB_HID.csprojResolveAssemblyReference.cache
+W:\FanController_USB_HID_winSW\USB2550HidTest\obj\x86\Release\USB2550HidTest.Forms.AdvancedForm.resources
+W:\FanController_USB_HID_winSW\USB2550HidTest\obj\x86\Release\USB2550HidTest.Forms.CustomSlider.resources
+W:\FanController_USB_HID_winSW\USB2550HidTest\obj\x86\Release\USB2550HidTest.Forms.Mainform.resources
+W:\FanController_USB_HID_winSW\USB2550HidTest\obj\x86\Release\USB2550HidTest.Properties.Resources.resources
+W:\FanController_USB_HID_winSW\USB2550HidTest\obj\x86\Release\FanController_USB_HID.csproj.GenerateResource.Cache
+W:\FanController_USB_HID_winSW\USB2550HidTest\obj\x86\Release\USB2550HidTest.exe
+W:\FanController_USB_HID_winSW\USB2550HidTest\obj\x86\Release\USB2550HidTest.pdb

@@ -1,0 +1,6 @@
+W:\FanController_USB_HID_winSW\UsbHid\bin\Release\UsbHid.dll
+W:\FanController_USB_HID_winSW\UsbHid\bin\Release\UsbHid.pdb
+W:\FanController_USB_HID_winSW\UsbHid\obj\Release\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+W:\FanController_USB_HID_winSW\UsbHid\obj\Release\UsbHid.csproj.GenerateResource.Cache
+W:\FanController_USB_HID_winSW\UsbHid\obj\Release\UsbHid.dll
+W:\FanController_USB_HID_winSW\UsbHid\obj\Release\UsbHid.pdb
